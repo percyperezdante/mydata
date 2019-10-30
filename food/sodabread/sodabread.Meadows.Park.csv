@@ -1,0 +1,5 @@
+date,id,plain_wholemeal_flour,white_flour,soda,salt,butter_milk,dry_fruit,fermentation_time,cooking_time,oven_level_number
+date,number,gr,gr,gr,gr,ml,gr,minutes,minutes,number
+20191030.232330,1,250,250,3,9,420,110,30,40,5
+
+
